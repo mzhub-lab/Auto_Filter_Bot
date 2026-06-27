@@ -69,7 +69,7 @@ STAR_PREMIUM_PLANS = {
     20: "1month",    
     30: "45days", 
     55: "3months",
-    100: "6months",
+    75: "6months",
 }  # Premium plans with their respective durations in days
 
 # ============================
