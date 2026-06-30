@@ -296,28 +296,25 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/drmoviezgroup">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/drmoviiez">[ Movies ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/drmoviezgroup">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/drmoviiez">[ Drmovies ]</a></b>"""
 
     
-   MOVIE_UPDATE_NOTIFY_TXT = """
-<blockquote>📥 <b>NEW FILE ADDED ✅</b></blockquote>
+    MOVIE_UPDATE_NOTIFY_TXT = """
+</b><a href={poster_url}>📥</a><a href={imdb_url}>New {tag} Added</a></b>
 
-🎬 <b>{filename}</b> | ⭐ <a href="{imdb_url}"><b>IMDb Info</b></a>
-━━━━━━━━━━━━━━━━━━━━━━
-🎭 <b>GENRES:</b> {genres}
-🌐 <b>OTT:</b> {ott}
-📀 <b>QUALITY:</b> {quality}
-🔊 <b>AUDIO:</b> {language}
-⭐ <b>RATING:</b> {rating}
+<blockquote>✨ ᴛɪᴛʟᴇ : <code>{filename} {year}</code>
 
+🎭 ɢᴇɴʀᴇs : <b>{genres}</b>
+📺 ᴏᴛᴛ        : <b>{ott}</b>
+🎞️ ǫᴜᴀʟɪᴛʏ : <b>{quality}</b>
+🎧 ᴀᴜᴅɪᴏ    : <b>{language}</b>
+🔥 ʀᴀᴛɪɴɢ   : <b>{rating}</b>
 {episodes}
-━━━━━━━━━━━━━━━━━━━━━━
-<blockquote>
-⚡ <b>POWERED BY</b>
-<a href="https://t.me/MzBossRt">@MzBossRt</a>
 </blockquote>
-🔎 <b>SEARCH:</b> {search_link}
+
+🔍 <b>Sᴇᴀʀᴄʜ →</b> {search_link}
 """
+
 
     IMDB_TEMPLATE_TXT = """<b><a href={url}>{title} (<a href={url}/releaseinfo>{year}</a>)
 
@@ -367,7 +364,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
 
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ʙᴜʏ ᴏᴜʀ ᴘʀᴇᴍɪᴜᴍ ꜱᴇʀᴠɪᴄᴇ ᴜꜱɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ꜱᴛᴀʀꜱ.  
 
-ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @drbotsupport
+ɪꜰ ʏᴏᴜ ꜰᴀᴄᴇ ᴀɴʏ ᴘʀᴏʙʟᴇᴍ, ᴛᴀᴋᴇ ᴀ ꜱᴄʀᴇᴇɴꜱʜᴏᴛ ᴀɴᴅ ꜱᴇɴᴅ ɪᴛ ᴛᴏ - @MzBossRt
 
 ꜱᴇʟᴇᴄᴛ ʏᴏᴜʀ ᴅᴇꜱɪʀᴇᴅ ᴀᴍᴏᴜɴᴛ ᴀɴᴅ ᴘᴜʀᴄʜᴀꜱᴇ ᴀ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ 👇.</b>
 """
@@ -474,7 +471,7 @@ sʜᴏᴡɴ ɪɴ : {remaining_seconds} <i>sᴇᴄ</i>⚡️
     SOURCE_TXT ="""<b>ՏOᑌᖇᑕᗴ ᑕOᗪᗴ : 👇 </b>
 
 This Is An Open-Source Project. You Can Use It Freely, But Selling The Source Code Is Strictly Prohibited.\n
-ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/drmoviiez>Movies</a>\n """
+ꜱᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ʜᴇʀᴇ ◉› :<a href=https://t.me/drmoviiez>Drmovies</a>\n """
 
     SETTING_TXT = """    
 <u>ꜱᴇᴛᴛɪɴɢꜱ</u> :
