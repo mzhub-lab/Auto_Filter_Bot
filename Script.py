@@ -296,7 +296,13 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/drmoviezgroup">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/drmoviiez">[ Drmovies ]</a></b>"""
+    CAPTION =  """  <a href="https://t.me/drmoviezgroup">
+<b>{file_name}</b></a
+
+<b><blockquote>𝙿𝚘𝚠𝚎𝚛e𝚍 𝙱𝚢 ➥ <a href="https://t.me/drmoviiez">
+𝐔𝐏𝐃𝐀𝐓𝐄 CHANNEL
+</a></blockquote></b><b><blockquote>𝙿𝚘𝚠𝚎𝚛e𝚍 𝙱𝚢 ➥ <a href="https://t.me/+SzLcULYfU8s4OTM1">
+@𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></blockquote></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
